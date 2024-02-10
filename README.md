@@ -19,7 +19,7 @@ The executable will be created into `build`, and can be executed through
 $ mpirun -np <number of cores> ./FK_solver
 ```
 
-### Authors
-Simon Hugot      ([@nncm-xbc](https://github.com/nncm-xbc))
-Luigi Pagani     ([@LuigiPagani](https://github.com/LuigiPagani))
-Samuele Vignolo  ([@samuvignolo](https://github.com/samuvignolo))
+## Authors
+-Simon Hugot      ([@nncm-xbc](https://github.com/nncm-xbc))
+-Luigi Pagani     ([@LuigiPagani](https://github.com/LuigiPagani))
+-Samuele Vignolo  ([@samuvignolo](https://github.com/samuvignolo))
