@@ -18,3 +18,8 @@ The executable will be created into `build`, and can be executed through
 ```bash
 $ mpirun -np <number of cores> ./FK_solver
 ```
+
+### Authors
+Simon Hugot      @nncm-xbc
+Luigi Pagani     @LuigiPagani
+Samuele Vignolo  @samuvignolo
